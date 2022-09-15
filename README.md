@@ -2,7 +2,7 @@
 - 👀 I’m interested in OOP 
 - 🌱 I’m currently learning CS 
 - 💞️ I’m looking to collaborate on any project involving C++
-- 📫 How to reach me andriesmatlala@yahoo.com
+- 📫 How to reach me andriesmatlala@icloud.com
 
 <!---
 KlevaBot/KlevaBot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
